@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Manas
+- 🌱 I’m currently learning Rust
+- 📫 Discord: https://discord.gg/je2DFhH7U6
