@@ -1,1 +1,3 @@
-![image](https://user-images.githubusercontent.com/64472354/137569194-397261f9-b28e-4bde-bdf0-c97d376cd60c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64472354/147804530-d2182047-7a9a-4b83-bafb-b85885d056aa.png">
+</p>
